@@ -3,7 +3,7 @@
 A final-year academic project that validates software requirements and auto-generates
 test cases using smart rule-based NLP — no API keys or ML models required.
 
-## ✨ Features
+## Features
 
 | Feature | Description |
 |---|---|
@@ -31,7 +31,7 @@ tuleap_v2/
 └── README.md
 ```
 
-## ⚙️ Setup & Run
+## Setup & Run
 
 ```bash
 # 1. Create virtual environment
@@ -48,7 +48,7 @@ streamlit run app.py
 
 Opens at http://localhost:8501
 
-## 🧠 How Test Cases Are Generated
+## How Test Cases Are Generated
 
 The `AITestCaseGenerator` extracts from each requirement:
 - **Actors** (user, admin, system…)
@@ -61,7 +61,7 @@ The `AITestCaseGenerator` extracts from each requirement:
 
 Each detected entity generates **specific, targeted test cases** rather than generic templates.
 
-## 📄 Document Upload
+## Document Upload
 
 Supports `.pdf` and `.docx` files.  
 Requirements are detected by:
