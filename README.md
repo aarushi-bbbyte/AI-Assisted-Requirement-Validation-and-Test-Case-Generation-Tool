@@ -1,7 +1,7 @@
-# AI-Assisted Requirement Tool v2
+# AI-Assisted Requirement Validation and Test Case Generation Tool
 
-A final-year academic project that validates software requirements and auto-generates
-test cases using smart rule-based NLP — no API keys or ML models required.
+An academic project that validates software requirements and auto-generates
+test cases using smart rule-based NLP.
 
 ## Features
 
